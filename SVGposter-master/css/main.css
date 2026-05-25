@@ -1,0 +1,221 @@
+body{
+	background-color: rgba(0,0,0,0.5);
+	font-family: Times New Roman;
+}
+
+#container{
+	margin: 0 auto;
+	width: 1000px;
+	height: 2700px;
+	background-color: #E0E2E2;
+}
+
+.card{
+	margin: 20px auto;
+	width: 200px;
+}
+
+#banner img{
+	width: 1001px;
+}
+
+#maincardtype{
+	
+}
+
+.maincard{
+	margin-left: 30px;
+}
+
+.creature{
+	position: absolute;
+}
+
+.symbolstext{
+	font-size: 23px;
+	display: inline;
+}
+
+.symbols{
+	height: 30px;
+	margin-left: 30px;
+	width: 30px;
+}
+
+.enhantment{
+	margin-top: 40px;
+	position: absolute;
+}
+
+.sorcery{
+	position: absolute;
+	margin-top: 80px;
+}
+
+.instant{
+	position: absolute;
+	margin-top: 120px;
+}
+.artifact{
+	position: absolute;
+	margin-top: 160px;
+}
+.planeswalker{
+	position: absolute;
+	margin-top: 200px;
+}
+.land{
+	position: absolute;
+	margin-top: 240px;
+}
+
+#rarity{
+	float: right;
+}
+
+.symbols2{
+	width: 25px;
+}
+
+.rarity{
+	top: 580px;
+	left: 1220px;
+	position: absolute;
+	overflow: none;
+}
+
+.common{
+	left: 1220px;
+	position: absolute;
+}
+.uncommon{
+	left: 1220px;
+	position: absolute;
+	margin-top: 40px;
+	margin-right: 40px;
+}
+.rare{
+		left: 1220px;
+	position: absolute;
+	margin-top: 80px;
+	margin-right: 40px;
+}
+.mythic{
+		left: 1220px;
+	position: absolute;
+	margin-top: 120px;
+	margin-right: 40px;
+}
+
+.colorsvg{
+	width: 300px;
+}
+
+.white{
+	position: absolute;
+	margin-left: 350px;
+	margin-top: 140px;
+}
+
+.green{
+	position: absolute;
+	top: 1000px;
+	left: 480px;
+}
+
+.blue{
+	position: absolute;
+	top: 1000px;
+	right: 480px;
+}
+
+.red{
+	position: absolute;
+	top: 1350px;
+	left: 580px;
+}
+
+.black{
+	position: absolute;
+	top: 1350px;
+	right: 580px;
+}
+
+.number{
+	font-size: 20px;
+	text-align: center;
+	position: absolute;
+	top: 1210px;
+	left: 840px;
+}
+
+.starimg{
+	width: 600px;
+	height: 650px;
+}
+
+.star{
+	position: absolute;
+	top: 930px;
+	left: 600px;
+}
+
+.colorless{
+	position: absolute;
+	top: 1700px;
+	left: 510px;
+}
+
+.muti{
+	position: absolute;
+	top: 1715px;
+	right: 510px;
+}
+
+.cardtext{
+	text-align: center;
+	position: absolute;
+	top: 580px;
+	left: 675px;
+}
+
+.cardtext h1{
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.cardtext p{
+	font-size: 24px;
+}
+
+.reprinted{
+	position: absolute;
+	top: 2150px;
+}
+
+.reprinted p{
+	text-align: center;
+	font-size: 25px;
+}
+
+.mana{
+	position: absolute;
+	top: 2150px;
+	left: 750px;
+}
+
+.mana p{
+	text-align: center;
+	font-size: 25px;
+}
+
+.power{
+	position: absolute;
+	top: 2150px;
+	left: 1092px;
+}
+
+.power p{
+	text-align: center;
+	font-size: 25px;
+}
