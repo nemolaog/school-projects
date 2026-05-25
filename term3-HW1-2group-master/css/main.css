@@ -1,0 +1,339 @@
+body{
+    font-weight: bold;
+    font-family: Century Gothic;
+    margin: 0 auto;
+    width: 980px;
+}
+
+
+#container{
+    width: 980px;
+}
+
+.nav1{
+    background: url(../images/navpc.jpg);
+    height: 320px;
+}
+
+.nav1 ul li{
+    list-style: none;
+    color: #000;
+    margin-top: 3%;
+    float: left;
+    width: 120px;
+    font-size: 22px;
+    padding: 0%；
+}
+
+.nav1 ul li:hover{
+    color: #f1ab3d;
+}
+
+.nav1 h1{
+    margin-top: 3%;
+    font-size: 36px;
+    float: left;
+    text-align: left;
+    position: absolute;
+}
+
+.nav1 h2{
+    margin-top: 5%;
+    font-size: 60px;
+    float: left;
+    position: absolute;
+    color: #f1ab3d;
+}
+
+
+.about h2{
+    margin-left: 5%;
+    font-size: 42px;
+    margin-top: 5%;
+}
+
+.about hr{
+    float: left;
+    margin-left: 5%;
+}
+
+#Mohan{
+    margin-top: 5%;
+}
+
+#Mohan button{
+    background-color: #f1ab3d;
+    font-size: 18px;
+    margin-top: 14.5%;
+    margin-left: 30%;
+    padding: 15px 20px;
+    font-family: Century Gothic;
+    font-weight: bold;
+}
+
+#Mohan h2{
+    font-size: 30px;
+    margin-top: 3%;
+}
+
+#Mohan h3{
+    font-size: 24px;
+    margin-top: 2%;
+}
+
+#Yuchen{
+    margin-top: 5%;
+}
+
+#Yuchen button{
+    background-color: #f1ab3d;
+    font-size: 18px;
+    margin-top: 14.5%;
+    margin-left: 30%;
+    padding: 15px 20px;
+    font-family: Century Gothic;
+    font-weight: bold;
+}
+
+#Yuchen h2{
+    font-size: 30px;
+    margin-top: 3%;
+}
+
+#Yuchen h3{
+    font-size: 24px;
+    margin-top: 2%;
+}
+
+#Specbc{
+    background-color: #f7e7ce;
+    height: 520px;
+    margin-top: 5%;
+}
+
+#Spec{
+    margin-top: 5%;
+    width: 850px;
+    margin: 0 auto;
+}
+
+.sp1{
+    margin-top: 5%;
+    border: 0.5px solid #a0a0a0;
+    padding-bottom: 5%;
+}
+
+.sp1:hover{
+    background-color: #f1ab3d;
+    transition: 1s;
+}
+
+.sp1 h1{
+    font-size: 48px;
+}
+
+.sp1 h2{
+    margin-top: 8%;
+    font-size: 24px;
+}
+
+.sp1 p{
+    margin-top: 12%;
+    font-size: 18px;
+}
+
+.sp1 button{
+    font-size: 18px;
+    margin-top: 20%;
+    font-family: Century Gothic;
+    font-weight: bold;
+}
+
+.sp2{
+    margin-top: 5%;
+    border: 0.5px solid #a0a0a0;
+    padding-bottom: 5%;
+}
+
+.sp2:hover{
+    background-color: #f1ab3d;
+    transition: 1s;
+}
+
+.sp2 h1{
+    font-size: 48px;
+}
+
+.sp2 h2{
+    margin-top: 8%;
+    font-size: 24px;
+}
+
+.sp2 p{
+    margin-top: 12%;
+    font-size: 18px;
+}
+
+.sp2 button{
+    font-size: 18px;
+    margin-top: 20%;
+    font-family: Century Gothic;
+    font-weight: bold;
+}
+
+
+.sp3{
+    margin-top: 5%;
+    border: 0.5px solid #a0a0a0;
+    padding-bottom: 5%;
+}
+
+.sp3:hover{
+    background-color: #f1ab3d;
+    transition: 1s;
+}
+
+.sp3 h1{
+    font-size: 48px;
+}
+
+.sp3 h2{
+    margin-top: 8%;
+    font-size: 24px;
+}
+
+.sp3 p{
+    margin-top: 12%;
+    font-size: 18px;
+}
+
+.sp3 button{
+    font-size: 18px;
+    margin-top: 20%;
+    font-family: Century Gothic;
+    font-weight: bold;
+}
+
+.work{
+    margin-top: 5%;
+}
+
+.items{
+    margin-top: 5%;
+}
+
+.flyft{
+    margin-top: 30%;
+}
+
+#Hireus{
+    margin-top: 5%;
+    height: 150px;
+    background-color: #f1ab3d;
+}
+
+.Hire h2{
+    margin-left: 5%;
+    margin-top: 8%;
+    font-size: 36px;
+}
+
+.Hire hr{
+    float: left;
+    margin-left: 5%;
+}
+
+.Hirebutton button{
+    color: #fff;
+    background-color:#000;
+    padding: 15px 50px;
+    margin-top: 25%;
+    margin-left: 30%;
+    font-family: Century Gothic;
+    font-weight: bold;
+}
+
+#contactus{
+    margin: 0 auto;
+    width:900px;
+}
+
+.contact {
+    margin-left: 5%;
+    font-size: 42px;
+    float: left;
+    margin-top: 5%;
+}
+
+#contactus input{
+    font-size: 30px;
+}
+
+.Name{
+    margin-top: 5%;
+}
+
+.subject{
+    height: 100px;
+}
+.message{
+    margin-top: 5%;
+}
+
+.message{
+    font-size: 30px;
+}
+
+.message input{
+    height: 200px;
+}
+
+.contactbutton button{
+    background-color: #f1ab3d;
+    color: #000;
+    padding: 10px 100px;
+    border-radius: 8px;
+    font-family: Century Gothic;    
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 2%;
+    margin-left: 10%;
+}
+
+
+.last{
+
+    margin-left: 32%;
+    margin-top: 10%;
+}
+
+.last ul li{
+    font-size: 22.1px;
+    width: 10%;
+    float: left;
+    display: inline-block;
+    text-align: center;
+}
+
+
+.last h2{
+    margin-left: 12%;
+    font-size: 18px;
+    margin-top: 1%;
+}
+
+.last2{
+    padding-top: 10px;
+    margin: 0 auto;
+    margin-left: 36%;
+}
+
+.last2 ul li{
+    float: left;
+    width: 5%;
+    margin-left: 2%;
+}
+
+.last2 ul li:hover{
+    color: #f1ab3d;
+}
